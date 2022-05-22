@@ -1,0 +1,155 @@
+{
+  "products": [
+    {
+      "title": "Alphabet T-shirt",
+      "slug": "alphabet-t-shirt",
+      "price": "120",
+      "salePrice": "90",
+      "shortDescription": "দারুন ছিলো ভাই অনেক সুন্দর  এমন বিশ্বাস জেনো সব সময় রাখতে পারে সবায় ধন্যবাদ ভাইয়া  ধন্যবাদ দারাজ \nসেলার ভাই কেও ধন্যবাদ জানাই",
+      "rating": "5",
+      "productDescription": "Thank you Daraz,,,, যেমন চেয়েছিলাম তেমন পেয়েছি তবে কাপড়টা জার্সি কাপড়ের মত তবে অনেক ভালো পণ্য.. ধন্যবাদ..",
+      "tagId": "17",
+      "categoryId": "5",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4g_J5sWcAuNb6j-ebWil1BceYcz8K8M79A&usqp=CAU",
+      "s": true,
+      "m": "",
+      "l": "",
+      "xl": "",
+      "xxl": "",
+      "xxxl": "",
+      "id": 1
+    },
+    {
+      "title": "Check Saree For Women",
+      "slug": "check-saree-for-women",
+      "price": "300",
+      "salePrice": "",
+      "shortDescription": "শাড়িগুলো অনেক ভাল ছিল।  সময়মতো পেয়েছি রাইডার অনেক ভাল ছিল উনার ব্যবহার অনেক ভালো। ধন্যবাদ দারাজ",
+      "rating": "4",
+      "productDescription": "শাড়িগুলো অনেক ভাল ছিল।  সময়মতো পেয়েছি রাইডার অনেক ভাল ছিল উনার ব্যবহার অনেক ভালো। ধন্যবাদ দারাজ",
+      "tagId": "16",
+      "categoryId": "3",
+      "photo": "https://newsmeter.in/h-upload/2021/12/22/311408-sabyasachi-wedding-saree.webp",
+      "s": "",
+      "m": "",
+      "l": false,
+      "xl": "",
+      "xxl": "",
+      "xxxl": "",
+      "id": 2
+    },
+    {
+      "title": "Satkahon Saree for Women",
+      "slug": "satkahon-saree-for-women",
+      "price": "600",
+      "salePrice": "450",
+      "shortDescription": "দাম অনুযায়ী শাড়ি ঠিক আছে যেরকমটা অর্ডার করেছিলাম সে রকমই পেয়েছি।\nধন্যবাদ দারাজ।\nবিশেষ ভাবে ধন্যবাদ জানাই REDX কে ও ডেলিভারি বয় কে।",
+      "rating": "3",
+      "productDescription": "দাম অনুযায়ী শাড়ি ঠিক আছে যেরকমটা অর্ডার করেছিলাম সে রকমই পেয়েছি।\nধন্যবাদ দারাজ।\nবিশেষ ভাবে ধন্যবাদ জানাই REDX কে ও ডেলিভারি বয় কে।",
+      "tagId": "16",
+      "categoryId": "3",
+      "photo": "https://www.masala.com/cloud/2021/07/26/AsySZT3D-samanthaakkineni.png.png",
+      "s": "",
+      "m": "",
+      "l": "",
+      "xl": "",
+      "xxl": "",
+      "xxxl": "",
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Watchd",
+      "slug": "watchd"
+    },
+    {
+      "id": 2,
+      "name": "Mens",
+      "slug": "men"
+    },
+    {
+      "id": 3,
+      "name": "Women",
+      "slug": "women"
+    },
+    {
+      "id": 4,
+      "name": "Kids",
+      "slug": "kids"
+    },
+    {
+      "id": 5,
+      "name": "Baby",
+      "slug": "baby"
+    },
+    {
+      "id": 6,
+      "name": "Cosmatic",
+      "slug": "cosmatic"
+    },
+    {
+      "id": 7,
+      "name": "Phones",
+      "slug": "phones"
+    },
+    {
+      "id": 8,
+      "name": "Computer",
+      "slug": "computer"
+    },
+    {
+      "id": 9,
+      "name": "Tablet",
+      "slug": "tablet"
+    },
+    {
+      "id": 10,
+      "name": "Shopes",
+      "slug": "shopes"
+    },
+    {
+      "id": 11,
+      "name": "bajare jai",
+      "slug": "bajare-jai"
+    }
+  ],
+  "tags": [
+    {
+      "id": 7,
+      "name": "Sob E kador e",
+      "slug": "sob-e-kador-e"
+    },
+    {
+      "id": 11,
+      "name": "Rased",
+      "slug": "rased"
+    },
+    {
+      "id": 12,
+      "name": "Shop",
+      "slug": "shop"
+    },
+    {
+      "id": 15,
+      "name": "Babies",
+      "slug": "babies"
+    },
+    {
+      "id": 16,
+      "name": "Women",
+      "slug": "women"
+    },
+    {
+      "id": 17,
+      "name": "Men",
+      "slug": "men"
+    },
+    {
+      "id": 18,
+      "name": "Computer",
+      "slug": "computer"
+    }
+  ]
+}

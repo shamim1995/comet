@@ -1,0 +1,7 @@
+.nav{
+    display: inline-block;
+}
+.form-control {
+   
+    text-transform:none !important;
+}
